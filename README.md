@@ -1,40 +1,40 @@
-# Python_learning
+# Python Learning
 
-this repository contains my Python learning journey and practice projects.
+This repository contains my Python learning journey and practice projects.
 
-## Topics i've learned
--Python Data Types
--Variables 
--Operators
--Basic I/O operations
--Boolean values
--Conditional execution
--Loops
--List and list processing
--Local and bitwise operations
--Functions
--Tuples
--Dictionaries
--Exeptions
--Data Processing
+## Topics I've Learned
+- Python Data Types
+- Variables
+- Operators
+- Basic I/O Operations
+- Boolean Values
+- Conditional Execution
+- Loops
+- Lists and List Processing
+- Logical and Bitwise Operations
+- Functions
+- Tuples
+- Dictionaries
+- Exceptions
+- Data Processing
 
-## Topics im learning
--Modules
--Packages
--PIP
--Strings
--Strings and list methods
--Exeptions
--Object-oriented programming
--Miscellaneous
+## Topics I'm Learning
+- Modules
+- Packages
+- PIP
+- Strings
+- String and List Methods
+- Exceptions
+- Object-Oriented Programming
+- Miscellaneous
 
 ## Current Files
+- hello_python.py → My first Python program
 
-
-## Future goals
--Build Python APIs
--Work with databases
--Learn full-stack development
+## Future Goals
+- Build Python APIs
+- Work with Databases
+- Learn Full-Stack Development
 
 ## Author
-Learning software development and building real proyects
+Learning software development and building real projects.
