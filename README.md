@@ -30,7 +30,7 @@ This repository contains my Python learning journey and practice projects.
 
 ## Current Files
 - hello_python.py → My first Python program
-- PythonEssentials1/ → Exercises and labs from the Python Essentials 1 course by Cisco Networking Academy
+- PythonEssentials1/ → Final project from the Python Essentials 1 course by Cisco Networking Academy
 - freecodecamp/ → Labs, workshops, and projects from the Python certification
 
 ## Future Goals
