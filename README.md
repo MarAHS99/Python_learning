@@ -29,7 +29,7 @@ This repository contains my Python learning journey and practice projects.
 - Miscellaneous
 
 ## Current Files
-- hello_python.py → My first Python program
+- hello_Github.py → My first Python program
 
 ## Future Goals
 - Build Python APIs
